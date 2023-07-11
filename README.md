@@ -13,7 +13,6 @@
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
   
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/delainee64/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/delainee64/azure-network-protocols)
  
 <h2>🤳Connect with me:</h2>
 
